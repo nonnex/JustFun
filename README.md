@@ -1,0 +1,2 @@
+# JustFun
+funny
